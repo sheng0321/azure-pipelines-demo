@@ -1,4 +1,4 @@
-namespace AzurePiplinesDemo.Models
+namespace AzurePipelinesDemo.Models
 {
     public class ErrorViewModel
     {

@@ -1,8 +1,8 @@
-using AzurePiplinesDemo.Models;
+using AzurePipelinesDemo.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace AzurePiplinesDemo.Controllers
+namespace AzurePipelinesDemo.Controllers
 {
     public class HomeController : Controller
     {
