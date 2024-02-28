@@ -19,12 +19,8 @@ jobs:
     - name: run a multi-line script
       run:  |
         echo what is in this directory?
-        ls -a
-        echo
-        echo Is Java installed?
-        Java -version
+        ls -a    
         echo
         echo Is Git installed?
         git --version
-        echo what about build tools?
-        gradle --version
+        |
